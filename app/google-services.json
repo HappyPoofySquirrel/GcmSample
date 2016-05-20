@@ -1,0 +1,35 @@
+{
+  "project_info": {
+    "project_number": "751478596350",
+    "project_id": "gcmsample-1310"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:751478596350:android:a152bfc6a19ccb07",
+        "android_client_info": {
+          "package_name": "com.example.ghopkins.gcmsample"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGumqRg_64p2GHwdEomATnCS6_4VPNOY8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
